@@ -80,7 +80,7 @@ Looking for my first role as a **Frontend Developer** — crafting innovative we
 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/llopisar/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llopis.ar)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://TUPORTFOLIO.com](https://portfolio-augusto.netlify.app/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-augusto.netlify.app/) 
 
 
 > *"A great dish needs fresh ingredients and precise technique — just like great code needs clean structure and thoughtful design."* 🍽️💻
