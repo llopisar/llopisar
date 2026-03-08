@@ -30,6 +30,8 @@ Today I focus on **frontend development**, building projects with **JavaScript a
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+Currently focusing on: React · modern UI patterns · AI-assisted development
+
 ### Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
