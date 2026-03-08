@@ -83,13 +83,6 @@ Responsive portfolio focused on **layout, responsive design and clean UI**.
 - Component-based UI
 - AI-assisted development workflows
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llopisar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llopisar&layout=compact&theme=radical)
 
 ---
 
